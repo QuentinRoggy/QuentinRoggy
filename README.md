@@ -2,7 +2,7 @@
 
 - 👨‍💻  Javascript Fullstack Developer
 - 🌍  I'm based in Angers
-- 🖥️  Vist my [Portfolio](https://quentinroggy.netlify.app/)
+- 🖥️  Vist my [Portfolio](https://quentinroggy.fr)
 - 💬 Ask me about **_CSS_** & **_JavaScript_**
 - ✉️  You can reach me by [email](mailto:quentin.roggy@gmail.com)
 - 🧠  I'm always learning something new
